@@ -1,0 +1,114 @@
+body	/Users/galu/Sites/lci/2018-2019/slides.html/css/print.css	/^body {$/;"	function	line:1
+h1,h2,h3	/Users/galu/Sites/lci/2018-2019/slides.html/css/print.css	/^h1,h2,h3 {$/;"	function	line:10
+index	/Users/galu/Sites/lci/2018-2019/slides.html/js/slides.js	/^var index = 0;$/;"	variable	line:1
+prevSlide	/Users/galu/Sites/lci/2018-2019/slides.html/js/slides.js	/^var prevSlide = "";$/;"	variable	line:2
+nextSlide	/Users/galu/Sites/lci/2018-2019/slides.html/js/slides.js	/^var nextSlide = "";$/;"	variable	line:3
+onkeyup	/Users/galu/Sites/lci/2018-2019/slides.html/js/slides.js	/^document.onkeyup = function(e) {$/;"	function	line:5
+switch	/Users/galu/Sites/lci/2018-2019/slides.html/js/slides.js	/^  switch (e.keyCode) {$/;"	function	line:16
+document.onkeyup	/Users/galu/Sites/lci/2018-2019/slides.html/js/slides.js	/^var nextSlide = "";$/;"	function	line:3
+body	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^body {$/;"	function	line:1
+@keyframes slideleft	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^@keyframes slideleft {$/;"	function	line:11
+from	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^    from {$/;"	function	line:12
+to	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^    to {$/;"	function	line:15
+@keyframes fadein	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^@keyframes fadein {$/;"	function	line:20
+from	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^    from {$/;"	function	line:21
+to	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^    to {$/;"	function	line:24
+@keyframes responsive	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^@keyframes responsive {$/;"	function	line:29
+0%	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^    0% {$/;"	function	line:30
+50%	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^    50% {$/;"	function	line:33
+100%	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^    100% {$/;"	function	line:38
+section	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^section {$/;"	function	line:45
+h1	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^h1 {$/;"	function	line:56
+h2	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^h2 {$/;"	function	line:61
+section	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^section {$/;"	function	line:65
+img	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^img {$/;"	function	line:70
+div#responsive	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^div#responsive {$/;"	function	line:77
+div#responsive img	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^div#responsive img {$/;"	function	line:85
+video	/Users/galu/Sites/lci/2018-2019/slides.html/css/slides.css	/^video {$/;"	function	line:93
+html	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^<html lang="en" dir="ltr">$/;"	function	line:2
+head	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^  <head>$/;"	function	line:3
+meta	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <meta charset="utf-8">$/;"	function	line:4
+title	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <title>Design for screens & HTML\/CSS\/JS possibilities - Jordi Galobart - @galu<\/title>$/;"	function	line:5
+link	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <link href="https:\/\/fonts.googleapis.com\/css?family=Montserrat" rel="stylesheet" media="screen">$/;"	function	line:6
+link	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <link rel="stylesheet" href="css\/slides.css" media="screen">$/;"	function	line:7
+link	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <link rel="stylesheet" href="css\/print.css" media="print">$/;"	function	line:8
+script	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <script src="js\/slides.js" charset="utf-8"><\/script>$/;"	function	line:9
+body	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^  <body>$/;"	function	line:11
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="intro">$/;"	function	line:13
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Design for screens & HTML\/CSS\/JS possibilities<\/h1>$/;"	function	line:14
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h2>Jordi Galobart Salvat - @galu<\/h2>$/;"	function	line:15
+p	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <p>http:\/\/www.galu.cat\/lci\/intro\/1-introduction.html<\/p>$/;"	function	line:16
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide1">$/;"	function	line:19
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Design for web, app or other interfaces<\/h1>$/;"	function	line:20
+p	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <p>You need to design for all devices and must be compatible. Each device has its strengths and its limitations<\/p>$/;"	function	line:21
+div	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <div>$/;"	function	line:22
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <img src="img\/apple-computer-desk-209151.jpg" alt="Design for desktop">$/;"	function	line:23
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <img src="img\/app-cellphone-device-870903.jpg" alt="Design for phones">$/;"	function	line:24
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <img src="img\/adult-apple-watch-arms-893891.jpg" alt="Design for smartwatch">$/;"	function	line:25
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <img src="img\/gadget-google-assistant-google-home-1072851.jpg" alt="Design for audio interface">$/;"	function	line:26
+ul	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <ul>$/;"	function	line:28
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>Click, touch, audio, sensors?<\/li>$/;"	function	line:29
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>Screen resolution<\/li>$/;"	function	line:30
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>Data storaged<\/li>$/;"	function	line:31
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>Device capabilities<\/li>$/;"	function	line:32
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>Also for print, tv, small screens, projectors, videowalls, …<\/li>$/;"	function	line:33
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide2">$/;"	function	line:37
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Responsive vs Adaptive Design<\/h1>$/;"	function	line:38
+p	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <p>You need to fit one unique content for all screens.<\/p>$/;"	function	line:39
+ul	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <ul>$/;"	function	line:40
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>You put <del>water<\/del> content into a cup it becomes the cup<\/li>$/;"	function	line:41
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>You put <del>water<\/del> content into a bottle it becomes the bottle<\/li>$/;"	function	line:42
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>You put <del>water<\/del> content into a teapot it becomes the teapot<\/li>$/;"	function	line:43
+div	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <div id="responsive">$/;"	function	line:45
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <img src="img\/accounting-achievement-aerial-1043506.jpg" alt="Multi device design">$/;"	function	line:46
+p	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>$/;"	function	line:47
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide3">$/;"	function	line:51
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Responsive vs Adaptive Design<\/h1>$/;"	function	line:52
+p	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <p>You have two techniques:<\/p>$/;"	function	line:53
+ol	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <ol>$/;"	function	line:54
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li><strong>Responsive Web Design (RWD):<\/strong> Same layout will automatically respond to that size, like a single ball growing or shrinking to fit through several different hoops.<\/li>$/;"	function	line:55
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li><strong>Adaptive Web Design:<\/strong> The layout used depends on the screen size used. You’d have several different balls to use depending on the hoop size.<\/li>$/;"	function	line:56
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <img src="img\/rwd-vs-adapt-example.gif" alt="Responsive vs Adaptative Web Design">$/;"	function	line:58
+p	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <p>Responsive on top, Adaptive on bottom<\/p>$/;"	function	line:59
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide4">$/;"	function	line:62
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Responsive vs Adaptative Design<\/h1>$/;"	function	line:63
+p	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <p>You have two approaches:<\/p>$/;"	function	line:64
+ol	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <ol>$/;"	function	line:65
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li><strong>Graceful degradation:<\/strong> Design for large screens (like desktop) and remove items and functionalities when goes to small screens. PLEASE DON'T USE THAT.<\/li>$/;"	function	line:66
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li><strong>Progressive enhacement:<\/strong> Design for small screens and add functionalities when goes to large screens. THAT'S THE WAY (and I like it)<\/li>$/;"	function	line:67
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <img src="img\/mobile-vs-desktop.png" alt="Mobile vs desktop">$/;"	function	line:69
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide5">$/;"	function	line:72
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Atom design<\/h1>$/;"	function	line:73
+div	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <div>$/;"	function	line:74
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <img src="img\/bradfrost.jpg" alt="Brad Frost">$/;"	function	line:75
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <img src="img\/atom.png" alt="Atom Design">$/;"	function	line:76
+div	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <div>$/;"	function	line:77
+ul	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <ul>$/;"	function	line:78
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li><a href="https:\/\/material.io\/design\/">Material Design (Google)<\/a><\/li>$/;"	function	line:79
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li><a href="https:\/\/ds.mendesaltaren.com\/login">Style guides tool (by mendesaltaren)<\/a><\/li>$/;"	function	line:80
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide6">$/;"	function	line:84
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Trends and the "mobile first” movement<\/h1>$/;"	function	line:85
+div	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <div>$/;"	function	line:86
+img	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <img src="img\/lukew.jpg" alt="Luke Wroblewski">$/;"	function	line:87
+div	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <div>$/;"	function	line:88
+p	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <p>Think: mobile first or mobile only?<\/p>$/;"	function	line:89
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide7">$/;"	function	line:92
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Tools for prototyping and programming animation<\/h1>$/;"	function	line:93
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h2>with HTML5, CSS3 and Javascript, through keyframing programming.<\/h2>$/;"	function	line:94
+ul	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <ul>$/;"	function	line:95
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>Principle (mac) http:\/\/principleformac.com\/<\/li>$/;"	function	line:96
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>Flinto https:\/\/www.flinto.com\/<\/li>$/;"	function	line:97
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>Framer https:\/\/framer.com\/<\/li>$/;"	function	line:98
+li	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <li>and for nostalgics, After effects<\/li>$/;"	function	line:99
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide8">$/;"	function	line:103
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Tools for prototyping and programming animation<\/h1>$/;"	function	line:104
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h2>with HTML5, CSS3 and Javascript, through keyframing programming.<\/h2>$/;"	function	line:105
+video	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <video controls poster="img\/principleformac.png">$/;"	function	line:106
+source	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <source src="video\/Principle For Mac.mp4" type="video\/mp4">$/;"	function	line:107
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide10">$/;"	function	line:111
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Technical possibilities of animating interfaces for Webs and Apps.<\/h1>$/;"	function	line:112
+a	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <a href="https:\/\/www.smashingmagazine.com\/2017\/01\/how-functional-animation-helps-improve-user-experience\/">How Functional Animation Helps Improve User Experience<\/a>$/;"	function	line:113
+section	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^    <section id="slide9">$/;"	function	line:116
+h	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <h1>Interaction with video.<\/h1>$/;"	function	line:117
+video	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^      <video controls poster="img\/bohemian.jpg">$/;"	function	line:118
+source	/Users/galu/Sites/lci/2018-2019/slides.html/1-introduction.html	/^        <source src="video\/bohemian.mp4" type="video\/mp4">$/;"	function	line:119
